@@ -1,0 +1,7 @@
+backup/
+lib/
+*.exe
+jsonapp
+*.bak
+assets/img/*
+!assets/img/pokeball.png
