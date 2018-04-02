@@ -26,3 +26,10 @@ Maiores detalhes constam em comentários descritas pelas unidades.
 * Precisa de um melhor tratamento de exceções no HTTP status code response.
 * Melhorar feedback ao usuário sobre intervalo de processamento entr request e response.
 * Melhorar a organização de código, refatorar.
+
+
+### Referências
+
+* [Fórum Lazarus](http://forum.lazarus.freepascal.org/index.php?topic=36035.0)
+* [fcl-json](http://wiki.freepascal.org/fcl-json)
+* [Synapse](http://wiki.freepascal.org/Synapse#Simple_version)
